@@ -1,5 +1,4 @@
-# Meet-Automation
-
+# Meet-Automation ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prashanth-up/Meet-Automation&title=You+Like+it?)
 Another simple automation script to join all the boring meetings/classes in Google Meet, while sleeping.
 This too is for all the lazy peeps who are dreading the morning classes.
 
