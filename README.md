@@ -50,5 +50,6 @@ Alternatively you can just run `pip install -r requirements.txt`
 
 # Have Fun Lazy People
 _*Drop a ⭐ if you're gonna sleep peacefully*_
+The best project for lazy people 
 
   
